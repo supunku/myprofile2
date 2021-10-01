@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.top{
+    background-color:#3DB2FF;
+    text-align: center;
+    position: relative;
+
+}
+
+h3{
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #2C2891;
+
+
+}
+
+p{
+    font-size: 1.25rem;
+    font-family: 'PT Sans', sans-serif;
+    color: #334756;
+}
+
+h4{
+    font-size: 1.2rem;
+    font-family: 'PT Sans', sans-serif;
+    color: #082032;
+    margin-bottom: 40px;
+}
+
+.heading-text{
+    font-size: 5rem;
+    padding-top: 100px;
+    font-family: 'Ephesis', cursive;
+    color: #88596E;
+}
+
+.cloud-top{
+    position: absolute;
+    right:200px;
+    top: 40px;
+}
+
+.cloud-bottom{
+    position: absolute;
+    bottom: 250px;
+    left:250px
+}
+
+.mobitel{
+    text-decoration: underline;
+   
+}
+
+.sub-heading{
+
+    font-family: 'PT Sans', sans-serif;
+    color:#664E88;
+    padding-top:20px;
+}
+
+.main{
+    background-color: #F9E4C8;
+}
+.my-detail{
+
+    text-align: center;
+    padding: 3rem;
+    
+
+}
+
+.my-detail img{
+    width: 20%;
+    height: 300px;
+    border-radius: 100%;
+    
+}
+
+.my-detail p{
+    width:30%;
+    margin: auto;
+    line-height: 30px;
+}
+
+.skills{
+    text-align: center;
+    width:60%;
+    margin: auto;
+    
+}
+
+.skills-row{
+    width: 70%;
+    margin: 0 auto 100px auto ;
+    text-align:left;
+    
+}
+
+.computer{
+    float: left;
+    width: 30%;
+    padding: 0 40px 60px 0;
+}
+
+.chilli{
+    float:right;
+    width: 20%;
+
+}
+
+.get-in-touch{
+    width: 70%;
+    text-align: center;
+    margin: 0 auto 40px auto;
+
+}
+
+.bottom{
+    background-color: wheat;
+    padding: 10px;
+}
+
+.get-in-touch p{
+    margin-bottom: 30px;
+}
+
+.ctm-btn{
+
+    margin-bottom: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px;
+    color: white;
+    border-radius: 20%;
+    font-size: 1.2rem;
+
+
+}
+
+.ctm-btn:hover{
+    background: linear-gradient(to right,purple, purple) ;
+}
+
+.footer{
+    padding: 40px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'PT Sans', sans-serif;
+}
